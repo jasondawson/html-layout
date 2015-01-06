@@ -1,0 +1,41 @@
+body {
+	background: rgb(85%, 85%, 85%);
+	height: 100%;
+}
+
+.UI_hide {
+	height: 60px;
+	width: 60px;
+	background: rgb(29%, 56%, 89%);
+	margin: 10px;
+}
+
+.text_body {
+	background: rgb(100%, 100%, 100%);
+	text-align: center;
+	padding: 30px;
+	font-size: 1.5em;
+}
+
+
+.box {
+	height: 100px;
+	margin: auto;
+	display: block;
+}
+
+.one {
+	background: rgb(29%, 56%, 89%);
+}
+
+.two {
+	background: rgb(31%, 89%, 76%);
+}
+
+.three {
+	background: rgb(72%, 91%, 53%);
+}
+
+.four {
+	background: rgb(97%, 91%, 11%);
+}
