@@ -1,0 +1,45 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.one {
+	background: rgb(29%, 56%, 89%);
+	width: 33%;
+	height: 100%;
+	float: left;
+	display: inline-block;
+}
+
+.two {
+	background: rgb(31%, 89%, 76%);
+	width: 33%;
+	height: 100%;
+	float: left;
+	display: inline-block;
+}
+
+.three {
+	background: rgb(72%, 91%, 53%);
+	width: 33%;
+	height: 70%;
+	float: left;
+	display: inline-block;
+}
+
+.img_holder {
+	display: inline-block;
+	height: 30%;
+	width: 33%;
+	background: rgb(82%, 1%, 11%);
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: rgb(99%, 90%, 77%);
+}
+
+span {
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
